@@ -1,0 +1,16 @@
+.env
+.git
+.gitignore
+*.pyc
+__pycache__
+*.db
+*.db-shm
+*.db-wal
+*.log
+data/
+logs/
+venv/
+*.pid
+.DS_Store
+*.tar.gz
+.deploy/
